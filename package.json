@@ -1,0 +1,17 @@
+{
+  "name": "fans",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^1.2.14",
+    "ai": "^4.3.13",
+    "file-type": "^20.5.0"
+  }
+}
